@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**FeyHakurei/FeyHakurei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I am Fey, a software engineer student
 
-Here are some ideas to get you started:
+```toml
+name = "Fey"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[self]
+age = 22
+locale = "es-ES"
+drink = "coffee"
+
+[languages]
+native = "Spanish"
+secondary = "English"
+exploring = ["Japanese","Russian"]
+
+
+[os]
+kernel = "Linux"
+flavor = "Fedora"
+```
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=bash,git,maven,c,cpp,cs,java,py,godot,unity,mysql,mongodb,html,css,js,ts,hibernate,matlab&perline=6)](https://skillicons.dev)
+## Learning
+[![My Skills](https://skillicons.dev/icons?i=rust,kotlin&perline=6)](https://skillicons.dev)
+
+
+
+## OS
+<img src="https://skillicons.dev/icons?i=linux,windows" />
+
+
+- - -
+
+Natilla
+
+

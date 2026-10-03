@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="moon.gif" width="75%"/>
+</div>
+<br>
 
 Hi! I am Fey, a software engineer student
 
